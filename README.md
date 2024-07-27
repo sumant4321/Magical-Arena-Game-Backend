@@ -9,13 +9,13 @@ The game ends when a player's health reaches zero. The player with lower health 
 
 ## 2.Result of the Magical Arena Game
 
-`**********Start Game ************
+`**********Start Game ************`
 
-Enter the details of two player in sequential manner.Let's go.......
+`Enter the details of two player in sequential manner.Let's go.......`
 
-Enter the First Player Name:A
+`Enter the First Player Name:A`
 
-Enter the Second Player Name:B
+`Enter the Second Player Name:B`
 
 Please enter Health(+ve) of Player(A): 50
 
@@ -62,7 +62,7 @@ Player(A) attacks with roll 4, Player(B) defends with roll 1. Damage: 30. Health
 Player(B) attacks with roll 6, Player(A) defends with roll 2. Damage: 20. Health left: 0
 
 Game Over! Player(B) wins!
-`
+ `
 
 ## 3.Test Cases is also added in the repository in package com.magical.arena.game.test of class name GameTest.java
 

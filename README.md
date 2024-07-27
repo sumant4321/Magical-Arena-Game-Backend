@@ -42,17 +42,29 @@ Game Over! Player(B) wins!
 
 ## 4.How to Run the Game:-
    ` 1) Import the provided repository in eclipse IDE and set the run (or debug) configururation with class name MagicalArena.java(contains main method()).`
+   
    ` 2) Go to the run dropdown and select the MagicalArena. `
+   
    ` 3.User Input will be like the below :- `
+   
       ` **********Start Game ************`
+      
       ` Enter the details of two player in sequential manner.Let's go.......`
+      
       ` Enter the First Player Name:A`
+      
       ` Enter the Second Player Name:B`
+      
       ` Please enter Health(+ve) of Player(A): 50`
+      
       ` Please enter Strength(+ve) of Player(A): 5`
+      
       ` Please enter Attack(+ve) of Player(A): 10`
+      
       ` Please enter Health(+ve) of Player(B): 100`
+      
       ` Please enter Strength(+ve) of Player(B): 10`
+      
       ` Please enter Attack(+ve) of Player(B): 5 `
 	
 ## 5.TO Run the test cases 

@@ -1,4 +1,4 @@
-Magical Arena Game
+#Magical Arena Game
 
 1.Overview
 In an arena match, two players take turns attacking. The attacker rolls attack dice and the defender rolls defense dice. 

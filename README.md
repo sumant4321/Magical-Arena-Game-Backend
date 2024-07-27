@@ -68,7 +68,9 @@ Game Over! Player(B) wins!
       ` Please enter Attack(+ve) of Player(B): 5 `
 	
 ## 5.TO Run the test cases 
-  1)Right click on the provided Test cases file (GameTest.java)
-  2)click on run as(or debug as) Junit test.
-  3)Note:- Testing methods that use randomness can be challenging because the output is not deterministic. For example, you can test that the rollDice method always returns a number between 1 and 6.
+  `1)Right click on the provided Test cases file (GameTest.java)`
+  
+  `2)click on run as(or debug as) Junit test.`
+  
+  `3)Note:- Testing methods that use randomness can be challenging because the output is not deterministic. For example, you can test that the rollDice method always returns a number between 1 and 6.`
   

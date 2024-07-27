@@ -10,31 +10,57 @@ The game ends when a player's health reaches zero. The player with lower health 
 ## 2.Result of the Magical Arena Game
 
 **********Start Game ************
+
 Enter the details of two player in sequential manner.Let's go.......
+
 Enter the First Player Name:A
+
 Enter the Second Player Name:B
+
 Please enter Health(+ve) of Player(A): 50
+
 Please enter Strength(+ve) of Player(A): 5
+
 Please enter Attack(+ve) of Player(A): 10
+
 Please enter Health(+ve) of Player(B): 100
+
 Please enter Strength(+ve) of Player(B): 10
+
 Please enter Attack(+ve) of Player(B): 5
+
 Player(A) attacks with roll 6, Player(B) defends with roll 6. Damage: 0. Health left: 100
+
 Player(B) attacks with roll 6, Player(A) defends with roll 1. Damage: 25. Health left: 25
+
 Player(A) attacks with roll 1, Player(B) defends with roll 3. Damage: 0. Health left: 100
+
 Player(B) attacks with roll 1, Player(A) defends with roll 1. Damage: 0. Health left: 25
+
 Player(A) attacks with roll 3, Player(B) defends with roll 4. Damage: 0. Health left: 100
+
 Player(B) attacks with roll 5, Player(A) defends with roll 5. Damage: 0. Health left: 25
+
 Player(A) attacks with roll 6, Player(B) defends with roll 2. Damage: 40. Health left: 60
+
 Player(B) attacks with roll 2, Player(A) defends with roll 6. Damage: 0. Health left: 25
+
 Player(A) attacks with roll 2, Player(B) defends with roll 4. Damage: 0. Health left: 60
+
 Player(B) attacks with roll 6, Player(A) defends with roll 5. Damage: 5. Health left: 20
+
 Player(A) attacks with roll 3, Player(B) defends with roll 5. Damage: 0. Health left: 60
+
 Player(B) attacks with roll 4, Player(A) defends with roll 4. Damage: 0. Health left: 20
+
 Player(A) attacks with roll 6, Player(B) defends with roll 5. Damage: 10. Health left: 50
+
 Player(B) attacks with roll 3, Player(A) defends with roll 5. Damage: 0. Health left: 20
+
 Player(A) attacks with roll 4, Player(B) defends with roll 1. Damage: 30. Health left: 20
+
 Player(B) attacks with roll 6, Player(A) defends with roll 2. Damage: 20. Health left: 0
+
 Game Over! Player(B) wins!
 
 
